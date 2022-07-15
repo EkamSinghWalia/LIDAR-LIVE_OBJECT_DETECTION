@@ -31,10 +31,23 @@ The capabilities are improved by integrating vehicle classification and vehicle 
 
 ![image](https://user-images.githubusercontent.com/106553324/179304632-ea27a4d4-ad44-4ead-ad04-d299400fd094.png)
 
+----------------
+Object Detection
+----------------
+
+![image](https://user-images.githubusercontent.com/106553324/179307747-59d4e98d-59dc-4e81-9c58-532d823b2f0c.png)
 
 
+![image](https://user-images.githubusercontent.com/106553324/179307777-ac50756c-990e-434c-8e0f-426fc732112c.png)
 
 
+--------------------------------------------
+Interactive and Convenient Detection System!
+--------------------------------------------
+
+![image](https://user-images.githubusercontent.com/106553324/179307864-e1709d51-a043-4bd3-9346-b363a4e9d966.png)
+
+![image](https://user-images.githubusercontent.com/106553324/179307887-6a8b355f-5670-440d-a8be-6c8a435058f1.png)
 
 
 
