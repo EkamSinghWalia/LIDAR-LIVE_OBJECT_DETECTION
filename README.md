@@ -9,6 +9,21 @@ It  involved  the  development of a tightly-coupled LIDAR and camera vision syst
 
 The capabilities are improved by integrating vehicle classification and vehicle tracking. Furthermore, advanced camera calibration is implemented that provides projection from the image plane to the real world coordinate. By camera calibration tracking results can be implemented in the real world plane, and vehicle trajectories can be collected. 
 
+A unique multi-planar LIDAR calibration algorithm has been developed. The camera and LIDAR are required to observe a planar pattern at different positions and orientations. Geometric constraints are solved to obtain the translation and rotation between the two sensors. 
+
+A tightly coupled LIDAR and sensor system has been developed for object detection and tracking. Moreover, the output of the vision camera can be used to provide classification and dimension results. 
+
+A servo motor used as base for mounting the LIDAR and vision camera fusion system. The motor in turn allows both the LIDAR and vision camera systems to rotate over a 180 degree angle thereby providing a complete real time front view of the vehicle. 
+
+An  autonomous  positioning  solution  for  urban  environment  is  provided  in  this project. The  solution  is  derived  by  combining  measurements  from  both LIDAR  and  inertial  sensors.  
+
+A metal detection circuit has been integrated with the ATMEGA chip that informs the host the live location of a potential threat ie: a metal object.
+Mecanum technology which enables the vehicle to move laterally. The technology uses a 4WD system powered by a central hub.
+
+A mobile application that allows the host/user to control and monitor the vehicle remotely.
+
+![image](https://user-images.githubusercontent.com/106553324/179310655-39b7ce11-899c-4123-b5d8-c6066bee9d4c.png)
+
 
 
 
