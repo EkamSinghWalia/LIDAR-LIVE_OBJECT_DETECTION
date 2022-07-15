@@ -42,12 +42,15 @@ Object Detection
 
 
 --------------------------------------------
-Interactive and Convenient Detection System!
+Interactive and Convenient Metal Detection System!
 --------------------------------------------
+
+![image](https://user-images.githubusercontent.com/106553324/179308822-7334e7e8-3e71-4a70-af89-639319b54dc2.png)
 
 ![image](https://user-images.githubusercontent.com/106553324/179307864-e1709d51-a043-4bd3-9346-b363a4e9d966.png)
 
 ![image](https://user-images.githubusercontent.com/106553324/179307887-6a8b355f-5670-440d-a8be-6c8a435058f1.png)
+
 
 
 
