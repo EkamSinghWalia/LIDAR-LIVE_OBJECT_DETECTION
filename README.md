@@ -2,4 +2,44 @@
 LIDAR BASED NAVIGATION SYSTEM COUPLED WITH OBJECT DETECTION CAPABILITIES USING PYTHON OPEN CV 
 
 
-![image](https://user-images.githubusercontent.com/106553324/179304268-a29b4abb-42f1-434a-aa64-737bb85d15de.png)
+Result
+This  project  has  presented  a  multi-sensor  equipped  vehicle  navigation  system that  was  developed as an all-purpose vehicle capable of being deployed in combat environments. The vehicle can analyze the state of surrounding vehicles and its own position.  
+
+It  involved  the  development of a tightly-coupled LIDAR and camera vision system, the calibration  approach of a pair of sensors and the camera  system,  the sensor fusion-based object detection, metal detection systems, GPS - GSM tracking and the methodology of controlling the vehicle remotely via a mobile application.
+
+The capabilities are improved by integrating vehicle classification and vehicle tracking. Furthermore, advanced camera calibration is implemented that provides projection from the image plane to the real world coordinate. By camera calibration tracking results can be implemented in the real world plane, and vehicle trajectories can be collected. 
+
+
+
+
+![image](https://user-images.githubusercontent.com/106553324/179304557-3972d9ea-7dcf-4f9a-acc7-6ee3a7c6d18b.png)
+
+
+
+![image](https://user-images.githubusercontent.com/106553324/179304570-66cfaa40-29f6-43a2-b45d-91c353d36104.png)
+
+
+
+![image](https://user-images.githubusercontent.com/106553324/179304597-bcabb1f5-d04a-4999-9c5b-e25a88f920be.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/106553324/179304622-bc3ad4b6-9140-4864-b284-00a565afa981.png)
+
+
+
+![image](https://user-images.githubusercontent.com/106553324/179304632-ea27a4d4-ad44-4ead-ad04-d299400fd094.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
